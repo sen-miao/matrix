@@ -1,0 +1,11 @@
+name: 'ux-template-app-simple'
+type: 'page'
+suite: 'ux-suite-react'
+entry:
+  browser: 'umd/index.js'
+  main: 'lib/index.js'
+  module: 'es/index.js'
+output:
+  umd: true
+  commonjs: true
+  module: true

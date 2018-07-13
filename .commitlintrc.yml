@@ -1,0 +1,19 @@
+extends:
+  - '@commitlint/config-conventional'
+
+
+
+# Spec
+# type(scope?): subject // 注意 subject 前面空格必须有
+# body?
+# footer?
+
+# type 主要包括：
+
+# feat (feature)
+# fix (bug fix)
+# docs (documentation)
+# style (formating, missing semi colons, …)
+# refactor
+# test (when adding missing tests)
+# chore (maintain)

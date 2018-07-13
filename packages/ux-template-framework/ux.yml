@@ -1,0 +1,8 @@
+name: 'ux-template-component-simple'
+type: 'framework'
+modules: 
+  - ''
+output:
+  umd: true
+  commonjs: false
+  module: false

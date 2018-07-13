@@ -1,0 +1,15 @@
+name: 'ux-template-component-simple'
+type: 'component'
+suite: 'ux-suite-react'
+entry:
+  browser: 'umd/index.js'
+  main: 'lib/index.js'
+  module: 'es/index.js'
+webpack:
+  externals: 
+    'react': 'React'
+    'react-dom': 'ReactDOM'
+output:
+  umd: true
+  commonjs: true
+  module: true

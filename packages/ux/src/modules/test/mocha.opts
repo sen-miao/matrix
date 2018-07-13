@@ -1,0 +1,5 @@
+--require @babel/register
+--reporter mochawesome
+--reporter-options reportDir=test/mochawesome-report
+--recursive
+--watch
