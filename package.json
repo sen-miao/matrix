@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sen-miao/matrix/issues"
   },
-  "homepage": "https://github.com/sen-miao/matrix#readme"
+  "homepage": "https://github.com/sen-miao/matrix#readme",
+  "devDependencies": {
+    "lerna": "^2.11.0"
+  }
 }
